@@ -5,7 +5,7 @@
     "plotpath": "./plots"
   },
   "Application": {
-    "pennant":{
+    "matrixmul":{
       "Barriers_suffix":[
         "sample"
       ],
