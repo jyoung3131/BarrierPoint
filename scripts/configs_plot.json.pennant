@@ -1,0 +1,22 @@
+{
+  "paths": {
+    "rootdir": "./",
+    "outpath": "./outputs",
+    "plotpath": "./plots"
+  },
+  "Application": {
+    "pennant":{
+      "Barriers_suffix":[
+        "sample"
+      ],
+      "Perfcntrs_suffix":[
+        "sample"
+      ]
+    }
+  },
+  "threads": [
+    1
+  ],
+  "plot_format":"pdf",
+  "Debug":false
+}
