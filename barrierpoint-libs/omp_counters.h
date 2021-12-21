@@ -40,7 +40,7 @@ int papi_event_set;
 #define MAX_STR_LEN 128
 #pragma omp threadprivate(papi_event_set)
 
-#define MAX_CNTRS 6
+#define MAX_CNTRS 10
 
 int  BP_AVAILABLE_CNTRS = 0;
 
